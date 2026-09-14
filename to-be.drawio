@@ -171,7 +171,7 @@
         <mxCell id="R6vpXsmkN38YgN2s-q5z-26" edge="1" parent="suCo7gezzFHgUYnO2oQP-50" source="R6vpXsmkN38YgN2s-q5z-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="R6vpXsmkN38YgN2s-q5z-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6vpXsmkN38YgN2s-q5z-28" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="Sistem Rental Kendaraan (To-Be)" vertex="1">
+        <mxCell id="R6vpXsmkN38YgN2s-q5z-28" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" value="AZ" vertex="1">
           <mxGeometry height="1460" width="360" x="245.00000000000045" y="2670" as="geometry" />
         </mxCell>
         <mxCell id="R6vpXsmkN38YgN2s-q5z-29" parent="R6vpXsmkN38YgN2s-q5z-28" style="swimlane;startSize=20;html=1;" value="Sistem" vertex="1">
